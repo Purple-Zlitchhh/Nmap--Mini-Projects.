@@ -1,4 +1,26 @@
-# Project Documentation 
+Disclaimer: Educational purpose only.
+
+(# Nmap Mini Project
+
+## Objective
+Perform basic network scanning using Nmap and understand open ports and services.
+
+## Tools Used
+- Kali Linux
+- Nmap
+
+## Commands Used
+nmap -sn
+nmap -sV
+nmap -A
+
+## Outcome
+Identified open ports and running services on target machine.
+
+## Disclaimer
+This project was done in a controlled lab environment for educational purposes only.)
+
+
 
 Project: Beginner Nmap Network Scan.
 
